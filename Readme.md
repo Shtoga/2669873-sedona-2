@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2669873).
-* Наставник: `Неизвестно`.
+- Студент: [Надежда Шкодина](https://up.htmlacademy.ru/htmlcss-individual/2/user/2669873).
+- Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
